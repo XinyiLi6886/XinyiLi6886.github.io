@@ -22,7 +22,7 @@ Experiences
 Publications
 ======
 •	International Journal Papers
-1.  Y. Xue, J. Ji, X. Yu, S. Zhou, S. Li, **X. Li**, T. Cheng, S. Li, K. Chen, Z. Lu, L. Li and Y. Fu et al., "Automatic Generation and Optimization Framework of NoC-Based Neural Network Accelerator Through Reinforcement Learning," in IEEE Transactions on Computers, vol. 73, no. 12, pp. 2882-2896, Dec. 2024.
+1.  Y. Xue, J. Ji, X. Yu, S. Zhou, S. Li, **X. Li**, T. Cheng, S. Li, K. Chen, Z. Lu, *L. Li and *Y. Fu et al., "Automatic Generation and Optimization Framework of NoC-Based Neural Network Accelerator Through Reinforcement Learning," in IEEE Transactions on Computers, vol. 73, no. 12, pp. 2882-2896, Dec. 2024.
 
 2.  M. Guo, T. Cheng, **X. Li**, L. Li and Y. Fu*, "A Nearest-Neighbor-Based Thermal Sensor Allocation and Temperature Reconstruction Method for 3-D NoC-Based Multicore Systems," in IEEE Sensors Journal, vol. 22, no. 24, pp. 24186-24196, 15 Dec.15, 2022.
 
