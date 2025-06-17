@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am a second year M.S. student at [Nanjing University (NJU)](https://www.nju.edu.cn/en/) in Nanjing, China, under the supervision of [Prof. Li Li](https://ese.nju.edu.cn/ll/list.htm). I received my B.S. degree in Telecommunications Engineering from the same university in 2023. From September 2024 to February 2025, I carried out collaborative research as a visiting scholar at [Pohang University of Science and Technology (POSTECH)](https://www.postech.ac.kr/eng/) in Pohang, South Korea, under the supervision of [Prof. Youngjoo Lee](https://sites.google.com/view/epiclab/member/yjlee).
+Hi, I am a second year M.S. student at [Nanjing University (NJU)](https://www.nju.edu.cn/en/) in Nanjing, China. I received my B.S. degree in Telecommunications Engineering from the same university in 2023. From September 2024 to February 2025, I carried out collaborative research as a visiting scholar at [Pohang University of Science and Technology (POSTECH)](https://www.postech.ac.kr/eng/) in Pohang, South Korea.
 
 My research interests focus on Network-on-Chip (NoC) design, HW/SW Co-design and LLMs. If you're interested in collaboration, feel free to contact me via [email](mailto: xinyili888@outlook.com).
 
